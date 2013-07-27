@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DCalc" parent="android:Theme.Holo.Light"/>
+
+    <style name="DCalc.MainTheme" parent="DCalc">
+        <item name="android:windowBackground">@drawable/shape_window_background</item>
+        <item name="android:textColor">#111</item>
+    </style>
+
+</resources>
